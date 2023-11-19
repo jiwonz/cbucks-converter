@@ -1,0 +1,1 @@
+# [다운로드 Download for Windows x86](https://github.com/jiwonz/cbucks-converter/releases/download/0.0.1/cbucks.exe)
